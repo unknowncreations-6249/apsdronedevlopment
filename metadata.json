@@ -1,0 +1,6 @@
+{
+  "name": "ARMY PUBLIC SCHOOL MHOW — DRONE PORTAL",
+  "description": "Official Drone Club & UAV Innovation Portal for Army Public School Mhow featuring the 12-unit school fleet inventory, DGCA drone classification guide, category finder, pre-flight safety protocols, and club quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
